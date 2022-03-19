@@ -1,0 +1,16 @@
+.aDoFooter{
+    color:#F4F4F4;
+}
+
+#footerStyle{
+    background-color: #3b7687 !important; 
+    color: white !important;
+    bottom: 0 !important;
+    margin-top: 30%;
+    position: relative;
+}
+
+.spanStyle{
+    background-color: rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
