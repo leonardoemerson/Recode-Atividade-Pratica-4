@@ -21,4 +21,5 @@ Para execução, basta abrir o backend no Intellij e executar o método main da 
 Após receber a mensagem Started SpringbootBackendApplication no console do IntelliJ, basta abrir o frontend com VSCode e rodar npm install, e depois npm start.<br/><br/>
 
 <h3>OBS:</h3><br/>
-Não esqueça de adicionar no arquivo application.properties contido em src/main/java/com.viajou.springboot/resources/ o seu username e password usado no seu mysql local. 
+Não esqueça de adicionar no arquivo application.properties contido em src/main/java/com.viajou.springboot/resources/ o seu username e password usado no seu mysql local.<br/><br/>
+Na pasta modelagem de dados constam uma modelagem teórica que foi usada no projeto anterior e uma modelagem prática que foi usado no atual projeto.
